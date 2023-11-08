@@ -18,9 +18,6 @@ function Aviso() {
           <Button variant="primary" onClick={handleClose}>
             OK!
           </Button>
-          {/* <Button variant="success" onClick={handleClose}>
-            Save Changes
-          </Button> */}
         </Modal.Footer>
       </Modal>
     </>

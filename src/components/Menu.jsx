@@ -24,7 +24,6 @@ function Menu() {
               <NavDropdown.Item href="#action/3.1" className='text-black fs-5'>Camisetas</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.2" className='text-black fs-5'>Revistas</NavDropdown.Item>
               <NavDropdown.Item href="#action/3.3" className='text-black fs-5'>Chaveiros</NavDropdown.Item>
-              {/* <NavDropdown.Divider /> */}
               <NavDropdown.Item href="#action/3.4" className='text-black fs-5'>Action-figures</NavDropdown.Item>
             </NavDropdown> 
             <Nav.Link href="#link" className='text-white fs-5'>Quem somos</Nav.Link>

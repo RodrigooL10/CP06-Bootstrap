@@ -6,97 +6,89 @@ function Slides() {
       <Carousel.Item>
         <img
             className='d-block w-100'
-            src="/revista.jpg"
+            src="./treco1.png"
             alt="Primeiro slide"
-            style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
+            style={{ maxHeight: '300px', width: '480px' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/chaveiro.jpg"
-        alt="Primeiro slide"
+        src="./treco2.png"
+        alt="segundo slide"
         style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/camiseta.jpg"
-        alt="Primeiro slide"
-        style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
+        src="./treco3.png"
+        alt="Terceiro slide"
+        style={{ maxHeight: '300px', width: '480px' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/camiseta.jpg"
-        alt="Primeiro slide"
+        src="./treco4.png"
+        alt="Quarto slide"
         style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/camiseta.jpg"
-        alt="Primeiro slide"
+        src="./treco5.png"
+        alt="Cinco slide"
         style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/camiseta.jpg"
-        alt="Primeiro slide"
+        src="./treco6.png"
+        alt="Sexto slide"
         style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/camiseta.jpg"
-        alt="Primeiro slide"
+        src="./treco7.png"
+        alt="Setimo slide"
         style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+          
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item>
       <img
         className='d-block w-100'
-        src="/camiseta.jpg"
-        alt="Primeiro slide"
+        src="./treco8.png"
+        alt="Oito slide"
         style={{ maxHeight: '300px', width: 'auto' }} // Adicione estilos personalizados para ajustar o tamanho
         />
         <Carousel.Caption>
-          <h2>Slide</h2>
-          <p>Slide</p>
+         
         </Carousel.Caption>
       </Carousel.Item>
     </Carousel>

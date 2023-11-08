@@ -1,26 +1,25 @@
 import Accordion from 'react-bootstrap/Accordion';
 import Tabela from './Tabela';
-import Tabela2 from './Tabela2';
 
 function Lista() {
   return (
-    <Accordion >
+    <Accordion defaultActiveKey="0">
       <Accordion.Item eventKey="0">
-        <Accordion.Header>Conjunto Harry Potter</Accordion.Header>
+        <Accordion.Header>FUTURAS PROMOÇÕES</Accordion.Header>
         <Accordion.Body>
-          <Tabela/>
+          Planejamos fazer uma grande promoção de terror em breve, fiquem atentos nas próximas semanas!!!!
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="1">
-        <Accordion.Header>Conjunto Star Wars</Accordion.Header>
+        <Accordion.Header>ANIME AWARDS EDITION!</Accordion.Header>
         <Accordion.Body>
-          <Tabela2/>
+          Fiquem também atentos á proxima premiação do anime awards, o vencedor ira receber uma grande promoção
         </Accordion.Body>
       </Accordion.Item>
       <Accordion.Item eventKey="2">
-        <Accordion.Header>Conjunto Mario</Accordion.Header>
+        <Accordion.Header>ADQUIRA AGORA ITENS DE HARRY POTTER!</Accordion.Header>
         <Accordion.Body>
-          <Tabela2/>
+          <Tabela/>
         </Accordion.Body>
       </Accordion.Item>
     </Accordion>
